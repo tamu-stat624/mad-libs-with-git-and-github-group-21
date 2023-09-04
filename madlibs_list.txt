@@ -13,9 +13,9 @@
 13. Material: steel
 14. Activity: flying
 15. Adverb: eerily
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. Number: 23
+17. Unit of Time: milliseconds
+18. Different Activity: scubadiving
+19. Adjective: infamous
+20. Vehicle: tricycle
+21. Your Name: PrincessConsuelaBananaHammock
