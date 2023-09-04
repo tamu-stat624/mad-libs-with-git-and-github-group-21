@@ -8,11 +8,11 @@
 8. Noun (Plural): Shoes
 9. Noun: Monkey
 10. Room Name: Den
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Liquid: acid
+12. Adjective: gorgeous
+13. Material: steel
+14. Activity: flying
+15. Adverb: eerily
 16. Number
 17. Unit of Time
 18. Different Activity
