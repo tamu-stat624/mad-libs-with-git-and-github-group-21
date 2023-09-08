@@ -12,10 +12,10 @@
 12. Adjective: gorgeous
 13. Material: steel
 14. Activity: flying
-15. Adverb: eerily
+15. Adverb: ferociously
 16. Number: 23
 17. Unit of Time: milliseconds
 18. Different Activity: scubadiving
 19. Adjective: infamous
-20. Vehicle: tricycle
+20. Vehicle: skateboard
 21. Your Name: PrincessConsuelaBananaHammock
